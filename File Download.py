@@ -1,7 +1,7 @@
 import dropbox
 
 # Initialize a Dropbox object using your access token
-dbx = dropbox.Dropbox('sl.ByQA1La-_SLbuQlL1UMemTfdQs-V2hJHP_YoNr99uGVCvDWIW3ZiJHSQj4IIxprY9yqoGvEyx-wztif-6aykHtnZZk7q-1CD_Jl6ldGrVjObmW5UKj_-oN0D_BhS1_vIj39dprdbeNBYH9WY-7YZoNs')
+dbx = dropbox.Dropbox('')
 
 
 # The path in your Dropbox account of the file you want to download
