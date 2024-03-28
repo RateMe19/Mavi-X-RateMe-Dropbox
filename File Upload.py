@@ -9,7 +9,7 @@ dbx = dropbox.Dropbox('')
 dropbox_path = '/Mart/rateme2sent_202403.xlsx'
 
 # The local file you want to upload
-local_file_path = '/Users/ovabi/Desktop/RateMe/Müşteri/Mavi/2024/Mart/rateme2sent_202403.xlsx'
+local_file_path = '/Users/Desktop/rateme2sent_202403.xlsx'
 
 with open(local_file_path, 'rb') as f:
     # Read the contents of the file
